@@ -17,7 +17,7 @@ class Field {
 
     console.log(`Welcome to my version of the findYourHat game! Starting position is random. Hard mode enabled (after so many moves more holes will be added).`);
     console.log(`I added some characters to this game. The '@' symbol represents an angel. Land on it and holes will be filled.`);
-    console.log(`The devil character, also represented by the '@', will add more holes. Good luck!`);
+    console.log(`The devil character, also represented by the '@', will add more holes. Good luck!!`);
   }
 
   runGame() {
